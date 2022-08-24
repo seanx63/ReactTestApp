@@ -1,2 +1,2 @@
 # Test React App
-Run with npm start.
+Run with `npm start`.
